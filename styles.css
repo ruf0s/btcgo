@@ -1,0 +1,85 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #B0C4DE;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.found-key {
+    background: #ffeb3b;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    margin: 10px auto;
+    max-width: 700px;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
+}
+
+.found-key h1 {
+    font-size: 1.1em;
+}
+
+.found-key p {
+    margin: 0;
+    font-family: "Courier New", Courier, monospace;
+    color: #333;
+    font-size: 1em;
+    margin-bottom: 5px;
+}
+
+#wif {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+.tested-keys {
+    background: #DCDCDC;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    margin: 20px auto;
+    max-width: 700px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.tested-keys h1 {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 1.1em;
+}
+
+.tested-keys ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 20px auto;
+    max-width: 600px;
+}
+
+.tested-keys li {
+    background: #F0F8FF;
+    margin: 10px;
+    padding: 15px;
+    border-radius: 30px;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
+    text-align: center;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 0.9em;
+    color: #333;
+}
+
+.keys-per-second {
+    background: #B0C4DE;
+    font-family: "Courier New", Courier, monospace;
+    font-weight: bold;
+    padding: 5px;
+    border-radius: 5px;
+    text-align: center;
+    margin: 20px auto;
+    max-width: 300px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.9);
+}
