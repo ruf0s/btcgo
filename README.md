@@ -1,5 +1,9 @@
 Todos os créditos para Investidor Internacional
+
 https://www.youtube.com/watch?v=679Zc7ZQLtI&lc=Ugxp2Mn6YZEGi1FBnQt4AaABAg.A5CoKjZlucTA5Fkwex6j1v
+
+Realizei somente algumas alterações para salvar um aquivo de acompanhamento em HTML
+e realizar o brute force de forma randomica
 
 # BTC GO V 0.2
 
