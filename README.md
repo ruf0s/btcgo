@@ -1,3 +1,6 @@
+Todos os créditos para Investidor Internacional
+https://www.youtube.com/watch?v=679Zc7ZQLtI&lc=Ugxp2Mn6YZEGi1FBnQt4AaABAg.A5CoKjZlucTA5Fkwex6j1v
+
 # BTC GO V 0.2
 
 # Instruções para rodar o projeto
